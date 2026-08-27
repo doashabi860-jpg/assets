@@ -18,6 +18,7 @@ This repository contains the official token information and logo for **Tether US
 ---
 
 ## 📁 Repository Structure
+
 assets
 └── /trc20
 └── /TPHjxwvDiAJtnySMo99ou7Rbqo8cqVhsh
